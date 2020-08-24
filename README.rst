@@ -27,3 +27,5 @@ The bot can be launched using
 .. code-block:: bash
 
     pipenv run start
+
+[![Run on Repl.it](https://repl.it/badge/github/bijij/Ditto)](https://repl.it/github/bijij/Ditto)
